@@ -1,4 +1,4 @@
-# paint-fill
+# Paint-fill
 
 Paint-fill is the implementation of a popular funciton in design softwares to paint the same color pixels surounding.
 
